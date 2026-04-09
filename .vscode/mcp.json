@@ -1,6 +1,6 @@
 {
   "servers": {
-    "githubs": {
+    "github": {
       "type": "http",
       "url": "https://api.githubcopilot.com/mcp/"
     }
